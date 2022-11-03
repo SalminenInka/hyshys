@@ -11,6 +11,8 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
+      "outputCapture": "std",
+      "envFile": "${workspaceFolder}/.env",
       "program": "${workspaceFolder}/app.js"
     }
   ]
