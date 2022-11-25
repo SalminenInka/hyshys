@@ -13,7 +13,7 @@
       ],
       "outputCapture": "std",
       "envFile": "${workspaceFolder}/.env",
-      "program": "${workspaceFolder}/app.js"
+      "program": "${workspaceFolder}/dist/app.js"
     }
   ]
 }
